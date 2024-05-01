@@ -1,0 +1,22 @@
+{
+    "Applicant_Name": "Wesley Clarksburg.pdf",
+    "Outgoing_Name": "Liv Taylor.pdf",
+    "Number_of_Industries_Reference": 2,
+    "Matched_Industries": [
+        {
+            "industry_name": "Administrative and Support Service",
+            "Reference_yr": 4,
+            "Applicant_yr": 19,
+            "partialCalc": "19/4=1",
+            "jobExp": "1/2=0.5"
+        },
+        {
+            "industry_name": "Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcyles",
+            "Reference_yr": 7,
+            "Applicant_yr": 3,
+            "partialCalc": "3/7=0.42857142857142855",
+            "jobExp": "0.42857142857142855/2=0.21428571428571427"
+        }
+    ],
+    "finalPercentage": 71.42857142857143
+}
